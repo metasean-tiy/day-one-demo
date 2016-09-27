@@ -1,0 +1,35 @@
+.calm img {
+  width: 400px;
+  height: 200px;
+}
+
+.meter {
+  /*display: none;*/
+  visibility: hidden;
+}
+
+body {
+  font-size: 24px;
+}
+
+p.squirrel {
+  font-size: 1.5rem;
+}
+
+p.not-squirrel {
+  font-size: 0.75rem;
+}
+
+span.big {
+  font-size: 2em;
+}
+
+img.squirrel {
+  margin: 25px;
+  border: 1em dashed maroon;
+  padding: 5em;
+}
+
+img.lego {
+  width: 75%;
+}
